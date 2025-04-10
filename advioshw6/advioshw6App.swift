@@ -11,7 +11,7 @@ import SwiftUI
 struct advioshw6App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WeatherScreen()
         }
     }
 }
